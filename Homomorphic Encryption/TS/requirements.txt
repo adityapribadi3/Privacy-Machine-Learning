@@ -1,0 +1,10 @@
+# Website           : https://blog.openmined.org/ckks-homomorphic-encryption-pytorch-pysyft-seal/
+# Env name          : syft_env
+# Python version    : 3.6
+# Command           : pip install torch==1.7.1+cpu torchvision==0.8.2+cpu -f https://download.pytorch.org/whl/torch_stable.html *
+#                     pip install torch==1.4.0 torchvision==0.5.0 -f https://download.pytorch.org/whl/torch_stable.html
+#                     pip install syft==0.2.9
+# Command           : pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
+# pip install syft[udacity]
+syft
+torch

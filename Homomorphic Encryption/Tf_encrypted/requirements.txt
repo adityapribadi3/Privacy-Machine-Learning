@@ -1,0 +1,17 @@
+'''
+File Name         : __init__.py
+Website           : https://tf-encrypted.io/
+Env name          : tfencrypt
+Python version    : 3.8
+Command           : pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
+'''
+
+'''
+File Name         : average.py
+Website           : https://github.com/tf-encrypted/tf-encrypted/tree/master/examples/simple-average
+Env name          : tfencrypt_1
+Python version    : 3.5
+Command           : pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-0.12.0rc0-cp35-cp35m-win_amd64.whl
+'''
+
+tf-encrypted

@@ -1,0 +1,5 @@
+# Website           : http://iamtrask.github.io/2017/06/05/homomorphic-surveillance/
+# Env name          : he-spam
+# Python version    : 3.8
+phe
+numpy
