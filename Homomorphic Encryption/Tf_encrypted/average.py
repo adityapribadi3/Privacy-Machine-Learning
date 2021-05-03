@@ -2,8 +2,11 @@ import tensorflow as tf
 import tf_encrypted as tfe
 
 def provide_input() -> tf.Tensor:
-    return tf.random_normal(shape=(10,))
+    data = tf.random_normal(shape=(1,2))
+    c = tf.constant([[3.0, 4.0]])
+    return c
 
+print("Data: ", tf.constant([[1.0, 2.0]]))
 inputs = [
             tfe.define_private_input('inputter-0', provide_input),
             tfe.define_private_input('inputter-1', provide_input),
